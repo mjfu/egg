@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Game 1 - Catch eggs\Scripts\PlayerScript.cs">
+    <Files>
+      <File FileName="..\Maze\Assets\Scripts\Box.js" Line="36" Column="2" />
+      <File FileName="..\Maze\Assets\Scripts\GameGUI.js" Line="121" Column="1" />
+      <File FileName="Assets\Game 1 - Catch eggs\Scripts\Bucket.js" Line="28" Column="11" />
+      <File FileName="Assets\Game 1 - Catch eggs\Scripts\PlayerScript.cs" Line="3" Column="1" />
+      <File FileName="Assets\Game 1 - Catch eggs\Scripts\GameGUI.js" Line="8" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
